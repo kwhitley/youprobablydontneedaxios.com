@@ -27,11 +27,6 @@
 <main>
   <ForkMe user="kwhitley" repo="itty.industries" />
 
-  <Nav version horizontal constrained>
-    <!-- <a href="/" use:navlink={{ exact: true }}>Home</a>
-    <a href="/about" use:navlink={{ exact: true }}>About</a> -->
-  </Nav>
-
   <section class:constrained>
     <Page>
       <slot />
@@ -40,7 +35,7 @@
 
   <Footer constrained={constrained}>
     <div class="split">
-      &copy; {year} itty industries, LLC. All rights reserved.
+      &copy; {year} Itty Industries, LLC. All rights reserved.
 
       <div class="social">
         <a href="https://twitter.com/kevinrwhitley">

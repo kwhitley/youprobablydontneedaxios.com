@@ -1,25 +1,24 @@
-# welcome to <span class="accent">it<strike>t</strike>y</span>
+# dearest axios,
 
-This all started as a fun code-golfing experiment ([itty-router](https://npmjs.com/package/itty-router)), attempting to make a tiny, elegant micro-router for use in service workers, specifically the incredibly powerful/lightweight [Cloudflare Workers](https://workers.cloudflare.com/).  By 2022, this tiny router has become one of the mainstays of serverless routing within the Cloudflare Workers community.
+## We need to talk.
 
-This path has continued on to handle both API generation (including [response handling](https://npmjs.com/package/itty-router-extras) and [CORS](https://npmjs.com/package/itty-cors)) and API [consumption/interaction](https://npmjs.com/package/itty-fetcher).  Each library typically rests in the ~500 byte range, to keep both your code *and* your bundle sizes down.
+### It won't be easy.
 
-👇 **current itty packages on NPM**
+---
 
-[![itty-router](https://img.shields.io/npm/dw/itty-router?style=for-the-badge&logo=npm&color=ded&label=itty-router)](https://npmjs.com/package/itty-router)
-[![itty-router-extras](https://img.shields.io/npm/dw/itty-router-extras?style=for-the-badge&logo=npm&color=ded&label=itty-router-extras)](https://npmjs.com/package/itty-router-extras)
-[![itty-cors](https://img.shields.io/npm/dw/itty-cors?style=for-the-badge&logo=npm&color=ded&label=itty-cors)](https://npmjs.com/package/itty-cors)
-[![itty-fetcher](https://img.shields.io/npm/dw/itty-fetcher?style=for-the-badge&logo=npm&color=ded&label=itty-fetcher)](https://npmjs.com/package/itty-fetcher)
-[![itty-durable](https://img.shields.io/npm/dw/itty-durable?style=for-the-badge&logo=npm&color=ded&label=itty-durable)](https://npmjs.com/package/itty-durable)
+I know you've probably been wondering what's up; why we don't talk as much.  I know I've been saying I was busy with work, and that's true, but you point out that work used to bring us closer together.  That's also true.
 
-## and... itty.industries?
+But honestly, I feel like we've been growing apart for awhile.  I'm really trying to live a healthier, slimmer lifestyle - and you've been kind of encouraging unhealthy choices (although to be fair, my laziness is to blame too!).
 
-In October 2022, itty industries, LLC. was formed to ensure the continuation of these open-source initiatives, as well as begin development on several free/commercial tools (to be announced shortly) under the "itty" brand.  Additionally, the free-to-use browser extension [Retheme](https://retheme.org) will be brought under the itty umbrella to continue support and development of that as well.
+My doctor says things need to change, and I agree.
 
-[Follow me on Twitter](https://twitter.com/kevinrwhitley) for updates!
+> Things need to change. <cite>my doctor</cite>
 
-<style lang="scss">
-  img {
-    width: auto;
-  }
-</style>
+So I guess it's time for us to part ways.
+
+You're still fantastic, and there are many devs out there for you... it's totally me, not you... or something.
+
+---
+
+_**P.S. - If you see me hanging out with [itty-fetcher](https://www.npmjs.com/package/itty-fetcher) soon, just remember, I still think the world of you.**_
+
