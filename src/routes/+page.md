@@ -1,8 +1,8 @@
-# dearest axios,
+# Dear axios,
 
 ## We need to talk.
 
-### It won't be easy.
+### This won't be easy.
 
 ---
 
