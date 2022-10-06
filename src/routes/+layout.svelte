@@ -17,8 +17,8 @@
 <svelte:head>
   <link rel="icon" type="image/svg" href="/favicon.png">
   <link rel="preconnect" href="https://api.itty.cards" crossorigin>
-  <title>itty.industries</title>
-  <meta name="description" content="Official site of itty.industries, home of itty open-source projects on NPM." />
+  <title>Dear Axios</title>
+  <meta name="description" content="A breakup letter to my dearest fetch-library, Axios." />
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
   <html lang="en" />
 </svelte:head>

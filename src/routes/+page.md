@@ -1,4 +1,4 @@
-# Dear axios,
+# Dear Axios,
 
 ## We need to talk.
 
